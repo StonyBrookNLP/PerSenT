@@ -2,7 +2,7 @@
 ### Person SenTiment, a challenge dataset for author's sentiment prediction in news domain.
 
 
-You can find our paper [Author's sentiment prediction]() 
+You can find our paper [Author's sentiment prediction](https://arxiv.org/abs/2011.06128) 
 
 Mohaddeseh Bastan, Mahnaz Koupaee, Youngseo Son, Richard Sicoli, Niranjan Balasubramanian. COLING2020
 
@@ -31,7 +31,13 @@ To recreat the results from the paper you can follow the instructions in the rea
  Please use the following bibtex entry:
 
    ```
-@inproceedings{
+@inproceedings{bastan2020authors,
+      title={Author's Sentiment Prediction}, 
+      author={Mohaddeseh Bastan and Mahnaz Koupaee and Youngseo Son and Richard Sicoli and Niranjan Balasubramanian},
+      year={2020},
+      eprint={2011.06128},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
    ```
    
