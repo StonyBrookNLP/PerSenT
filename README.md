@@ -24,7 +24,7 @@ You can download the data set URLs from [here](https://github.com/MHDBST/PerSenT
 
 The processed version of the dataset which contains used paragraphs, document-level, and paragraph-level labels can be download separately as [train](https://github.com/MHDBST/PerSenT/blob/main/train.csv), [dev](https://github.com/MHDBST/PerSenT/blob/main/dev.csv), [random test](https://github.com/MHDBST/PerSenT/blob/main/random_test.ccsv), and [fixed test](https://github.com/MHDBST/PerSenT/blob/main/fixed_test.csv).
 
-To recreat the results from the paper you can follow the instructions in the readme file from the [source code]().
+To recreat the results from the paper you can follow the instructions in the readme file from the [source code](https://github.com/StonyBrookNLP/PerSenT/tree/main/pre_post_processing_steps).
 
 ### Liked us? Cite us!
 
