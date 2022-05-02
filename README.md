@@ -31,13 +31,21 @@ To recreat the results from the paper you can follow the instructions in the rea
  Please use the following bibtex entry:
 
    ```
-@inproceedings{bastan2020authors,
-      title={Author's Sentiment Prediction}, 
-      author={Mohaddeseh Bastan and Mahnaz Koupaee and Youngseo Son and Richard Sicoli and Niranjan Balasubramanian},
-      year={2020},
-      eprint={2011.06128},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{bastan-etal-2020-authors,
+    title = "Author{'}s Sentiment Prediction",
+    author = "Bastan, Mohaddeseh  and
+      Koupaee, Mahnaz  and
+      Son, Youngseo  and
+      Sicoli, Richard  and
+      Balasubramanian, Niranjan",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.52",
+    doi = "10.18653/v1/2020.coling-main.52",
+    pages = "604--615",
 }
    ```
    
